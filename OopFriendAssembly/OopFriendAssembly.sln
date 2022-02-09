@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopFriendAssembly.ArrayLibrary", "OopFriendAssembly.ArrayLibrary\OopFriendAssembly.ArrayLibrary.csproj", "{B0240F98-F1CC-40CD-B5EA-9DD489480208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopFriendAssembly.App", "OopFriendAssembly.App\OopFriendAssembly.App.csproj", "{91F6CBC8-82D5-45BD-9F0B-EC48E9352321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0240F98-F1CC-40CD-B5EA-9DD489480208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0240F98-F1CC-40CD-B5EA-9DD489480208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0240F98-F1CC-40CD-B5EA-9DD489480208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0240F98-F1CC-40CD-B5EA-9DD489480208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F6CBC8-82D5-45BD-9F0B-EC48E9352321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F6CBC8-82D5-45BD-9F0B-EC48E9352321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F6CBC8-82D5-45BD-9F0B-EC48E9352321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F6CBC8-82D5-45BD-9F0B-EC48E9352321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7488279F-33E0-4A8E-B677-D8201C5221CB}
+	EndGlobalSection
+EndGlobal
